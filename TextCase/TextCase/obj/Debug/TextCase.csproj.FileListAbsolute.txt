@@ -1,0 +1,7 @@
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\TextCase\TextCase\bin\Debug\TextCase.dll
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\TextCase\TextCase\bin\Debug\TextCase.pdb
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\TextCase\TextCase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\TextCase\TextCase\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\TextCase\TextCase\obj\Debug\TextCase.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\TextCase\TextCase\obj\Debug\TextCase.dll
+C:\Users\SONY\Documents\Visual Studio 2015\Projects\TextCase\TextCase\obj\Debug\TextCase.pdb
